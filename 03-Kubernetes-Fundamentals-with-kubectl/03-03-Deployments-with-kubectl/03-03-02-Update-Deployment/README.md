@@ -71,7 +71,7 @@ http://<External-IP-from-get-service-output>
 
 
 ## Step-02: Update the Application from V2 to V3 using "Edit Deployment" Option
-### Edit Deployment
+### Edit Deployment | Upon making changes & saving the file, deployment will be done
 ```
 # Edit Deployment
 kubectl edit deployment/<Deployment-Name> --record=true
