@@ -2,7 +2,10 @@
 
 ## Step-01: Introduction
 
-### Why do we need Ingress
+### Why do we need Ingress?
+- No SSL Termination - AKS Load Balancer - can route TCP but not Http
+- 1 IP for multipe services is not possible
+- Ingress can do SSL based termination, Context path based routing
 ![](Why_We_Need_Ingress.png)
 
 
