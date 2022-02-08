@@ -2,6 +2,10 @@
 
 ## Step-01: Introduction
 
+### Why do we need Ingress
+![](Why_We_Need_Ingress.png)
+
+
 ### Ingress Basic Architecture
 
 [![Image](https://www.stacksimplify.com/course-images/azure-aks-ingress-basic.png "Azure AKS Kubernetes - Masterclass")](https://www.udemy.com/course/aws-eks-kubernetes-masterclass-devops-microservices/?referralCode=257C9AD5B5AF8D12D1E1)
